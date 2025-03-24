@@ -7,7 +7,7 @@ tags: [CTF, Writeup, Reverse Engineering ,PicoCTF]
 render_with_liquid: false
 ---
 
-Here you will see my detailed approach to the Challenge Quantum Scramble from PicoCTF, this is not meant to be the perfect solution, just how I thought this problem
+Here you will see my detailed approach to the Challenge Quantum Scramble from PicoCTF, this is not meant to be the perfect solution, just how I thought this problem.
 
 ## Understanding the problem
 The first step is to identify what useful information we have:
