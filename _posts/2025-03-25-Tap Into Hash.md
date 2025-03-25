@@ -3,7 +3,7 @@ title: PicoCTF Tap Into Hash Writeup
 author: Diego Forni
 date: 2025-03-24 14:10:00 +0800
 categories: [CTF]
-tags: [CTF, Writeup, Reverse Engineering, PicoCTF]
+tags: [CTF, Writeup, Reverse Engineering, PicoCTF, Medium]
 render_with_liquid: false
 ---
 
